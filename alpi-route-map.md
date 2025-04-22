@@ -1,5 +1,5 @@
 ### 画面遷移図
-Figma：https://www.figma.com/design/oLUyNtZsfeO1Ikljxpp7VJ/ALPI?node-id=0-1&p=f&t=t1Km7CxYm5RCvto5-0
+Figma：https://www.figma.com/design/U51931eWu3CnPpSzmsfkLM/ALPI--Community-?node-id=0-1&t=DdYuaEnocVulUpuz-1
 
 ### READMEに記載した機能
 - [×] AI chat機能（会話から提案）
