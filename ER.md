@@ -1,6 +1,6 @@
 ### ER図
 （ER図のスクリーンショットの画像）
-[![Image from Gyazo](https://i.gyazo.com/f9ca0d5ee13e4a21eeacff8acc977710.png)](https://gyazo.com/f9ca0d5ee13e4a21eeacff8acc977710)
+[![Image from Gyazo](https://i.gyazo.com/75470e457ac40415f6b72e89f531a9b6.png)](https://gyazo.com/75470e457ac40415f6b72e89f531a9b6)
 
 
 ### 本サービスの概要（700文字以内）
