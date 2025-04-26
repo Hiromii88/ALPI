@@ -1,6 +1,6 @@
 ### ER図
 （ER図のスクリーンショットの画像）
-[![Image from Gyazo](https://i.gyazo.com/7ac70b1f084f7b2269a67cd75686a5a8.png)](https://gyazo.com/7ac70b1f084f7b2269a67cd75686a5a8)
+[![Image from Gyazo](https://i.gyazo.com/9a39ba5dbffb2acf3a76e81bbddcd57a.png)](https://gyazo.com/9a39ba5dbffb2acf3a76e81bbddcd57a)
 
 ### 本サービスの概要（700文字以内）
 会話形式で次に登る山を提案してくれるAIアプリです。

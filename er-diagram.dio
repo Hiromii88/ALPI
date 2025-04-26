@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="EVVkN0_44Sfaom-NggDS" name="ページ1">
-        <mxGraphModel dx="1963" dy="1333" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1963" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -41,7 +41,7 @@
                 <mxCell id="57" value="mountains" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="56">
                     <mxGeometry x="50" y="10" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" value="&lt;ul&gt;&lt;li&gt;id&lt;/li&gt;&lt;li&gt;name(string)&lt;/li&gt;&lt;li&gt;height(int)&lt;/li&gt;&lt;li&gt;level(string)&lt;/li&gt;&lt;li&gt;feature(text)&lt;/li&gt;&lt;li&gt;hut(boolean)&lt;/li&gt;&lt;li&gt;route_distance(int)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="56">
+                <mxCell id="58" value="&lt;ul&gt;&lt;li&gt;id&lt;/li&gt;&lt;li&gt;name(string)&lt;/li&gt;&lt;li&gt;height(int)&lt;/li&gt;&lt;li&gt;level(enum)&lt;/li&gt;&lt;li&gt;feature(text)&lt;/li&gt;&lt;li&gt;hut(boolean)&lt;/li&gt;&lt;li&gt;route_distance(int)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="56">
                     <mxGeometry x="-20" y="30" width="180" height="180" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" value="" style="shape=table;childLayout=tableLayout;startSize=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;labelBackgroundColor=#E6E6E6;" vertex="1" parent="1">
